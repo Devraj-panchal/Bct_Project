@@ -1,9 +1,9 @@
 # Land Registration System with Blockchain  
-
+<!-- 
 <a href="https://img.shields.io/static/v1?label=LandRegistration&message=TruffleSuite&color=orange"><img src="https://img.shields.io/static/v1?label=LandRegistration&message=TruffleSuite&color=orange"></a>
 <img src="https://img.shields.io/badge/Ethereum-20232A?style=for-the-badge&logo=ethereum&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<a href="LICENSE"><img src="https://img.shields.io/static/v1?label=license&message=MIT&color=green"></a>
+<a href="LICENSE"><img src="https://img.shields.io/static/v1?label=license&message=MIT&color=green"></a> -->
 
 ## Team Members:
 
@@ -53,15 +53,15 @@ So the Land Registration system using blockchain is a distributed system that wi
 
 
 ## Steps to run the application:
-1. Clone the github repository and cd to the folder 
-2. Open _Ganache_ and keep it running in the Background.
-3. Make sure you have Metamask Extension in your browser.
-4. In the root directory run _truffle migrate --reset_.
-5. Use node version 16.20.2
-6. cd to the _client_ folder and run _npm install_.
-7. Run _npm start_.
+1. Open _Ganache_ and keep it running in the Background.
+2. Make sure you have Metamask Extension in your browser.
+3. In the root directory run _truffle migrate --reset_.
+4. Use node version 16.20.2
+5. cd to the _client_ folder and run _npm install_.
+6. Run _npm start_.
 
-## [Project Demo Link](https://youtu.be/6VLaAa8GNDc)
+## [Project Demo Link](https://drive.google.com/drive/folders/1q2g5DIGceD3YjZB6k89TZEQH2kquKaH9?usp=sharing)
+
 
 ## Some features of the application:-
 
@@ -93,9 +93,3 @@ Verify Land Transaction(by Land Inspector)    |                   Owned Lands(Bu
 View Profile(Before Verification)                  |             Edit Profile(After Verification)
 :---------------------------------:        |      :------------------------------:
 <img src="Screenshots/profile.png" height="200" width="100%">     |<img src="Screenshots/edit profile.png" height="200" width="80%">
-
-### Make sure to star the repository if you find it helpful!
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=vrii14.Land-Registration-with-Blockchain)
-<a href="https://github.com/vrii14/Land-Registration-with-Blockchain/stargazers"><img src="https://img.shields.io/github/stars/vrii14/Land-Registration-with-Blockchain?color=yellow" alt="Stars Badge"/></a>
-<a href="https://github.com/vrii14/Land-Registration-with-Blockchain/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/vrii14/Land-Registration-with-Blockchain?color=2b9348"></a>
-

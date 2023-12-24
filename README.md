@@ -62,6 +62,9 @@ So the Land Registration system using blockchain is a distributed system that wi
 
 ## [Project Demo Link](https://drive.google.com/drive/folders/1q2g5DIGceD3YjZB6k89TZEQH2kquKaH9?usp=sharing)
 
+## For pulling Docker image
+docker pull devrajpanchal/bct_project:latest
+
 
 ## Some features of the application:-
 
